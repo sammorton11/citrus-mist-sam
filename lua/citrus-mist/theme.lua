@@ -180,7 +180,7 @@ function M.set_colors()
 		["@keyword"] = { fg = p.citrus_alt },
 		["@keyword.function"] = { fg = p.citrus_alt },
 		["@keyword.operator"] = { fg = p.citrus_alt },
-		["@keyword.return"] = { fg = p.dark_mist },
+		["@keyword.return"] = { fg = p.citrus_alt },
 		["@label"] = { fg = p.citrus_alt },
 		["@method"] = { fg = p.dark_mist },
 		["@namespace"] = { fg = p.light_mist },
