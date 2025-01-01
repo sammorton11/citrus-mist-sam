@@ -39,7 +39,7 @@ function M.set_colors()
 
 		Directory = { fg = p.dark_mist },
 		ErrorMsg = { fg = p.citrus },
-		WarningMsg = { fg = p.citrus_alt },
+		WarningMsg = { fg = p.citrus },
 		ModeMsg = { fg = p.fg },
 		MoreMsg = { fg = p.fg },
 		MsgArea = { fg = p.fg, bg = p.bg },
