@@ -82,7 +82,7 @@ function M.set_colors()
 		FloatBorder = { fg = p.fg_alt },
 		Function = { fg = p.dark_mist },
 		Include = { fg = p.citrus },
-		Keyword = { fg = p.light_mist },
+		Keyword = { fg = p.citrus_green },
 		Label = { fg = p.citrus },
 		Macro = { fg = p.citrus_green_alt },
 		Number = { fg = p.citrus_alt },
