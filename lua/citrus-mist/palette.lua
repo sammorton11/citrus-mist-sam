@@ -33,7 +33,7 @@ local palette = {
     
   -- Subtle highlights (work with soft_white)
     pearl = "#E8EEF1",
-    moon_glow = "#D9E3E8"
+    moon_glow = "#D9E3E8",
 
 	none = "NONE",
 }
