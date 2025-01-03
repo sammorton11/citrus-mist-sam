@@ -80,9 +80,13 @@ function M.set_colors()
 		Exception = { fg = p.citrus },
 		Float = { fg = p.citrus_alt },
 		FloatBorder = { fg = p.fg_alt },
-		Function = { fg = p.dark_mist },
+		
+		Function = { fg = p.citrus_alt },
+			
 		Include = { fg = p.citrus },
-		Keyword = { fg = p.citrus_alt },
+			
+		Keyword = { fg = p.light_mist },
+			
 		Label = { fg = p.citrus },
 		Macro = { fg = p.citrus_green_alt },
 		Number = { fg = p.citrus_alt },
