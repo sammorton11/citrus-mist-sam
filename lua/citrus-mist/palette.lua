@@ -14,6 +14,26 @@ local palette = {
   citrus_green = "#C7E77E",
   citrus_green_alt = "#E4F9A9",
   dark_cloud = "#23201C",
+  -- Ocean tones (complement the existing blue-greys)
+    deep_ocean = "#1B4B5A",
+    sea_foam = "#7FB9AB",
+    teal_mist = "#64A7A2",
+    
+  -- Warm accents (play well with the citrus tones)
+    coral_dust = "#E8927C",
+    sand_rose = "#DEB9A0",
+    
+  -- Cool neutrals (extend the misty theme)
+    steel_blue = "#547988",
+    slate_mist = "#8FA3AD",
+    
+  -- Earth tones (ground the citrus greens)
+    sage = "#9CAF88",
+    moss = "#8A9B6E",
+    
+  -- Subtle highlights (work with soft_white)
+    pearl = "#E8EEF1",
+    moon_glow = "#D9E3E8"
 
 	none = "NONE",
 }
