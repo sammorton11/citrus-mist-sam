@@ -175,7 +175,7 @@ function M.set_colors()
 		["@constant.macro"] = { fg = p.light_mist },
 		["@constructor"] = { fg = p.light_mist },
 		["@exception"] = { fg = p.citrus_alt },
-		["@field"] = { fg = p.light_mist },
+		["@field"] = { fg = p.dark_mist },
 		["@float"] = { fg = p.citrus_alt },
 		["@function"] = { fg = p.dark_mist },
 		["@function.builtin"] = { fg = p.light_mist },
