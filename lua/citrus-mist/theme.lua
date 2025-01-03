@@ -177,7 +177,7 @@ function M.set_colors()
 		["@exception"] = { fg = p.citrus_alt },
 		["@field"] = { fg = p.light_mist },
 		["@float"] = { fg = p.citrus_alt },
-		["@function"] = { fg = p.dark_mist },
+		["@function"] = { fg = p.citrus },
 		["@function.builtin"] = { fg = p.light_mist },
 		["@function.macro"] = { fg = p.light_mist },
 		["@include"] = { fg = p.citrus },
