@@ -179,7 +179,7 @@ function M.set_colors()
 		["@float"] = { fg = p.citrus_alt },
 		["@function"] = { fg = p.citrus_alt },
 		["@function.builtin"] = { fg = p.citrus_alt },
-		["@function.macro"] = { fg = p.citrus_alt },
+		["@function.macro"] = { fg = p.light_mist },
 		["@include"] = { fg = p.citrus },
 		["@keyword"] = { fg = p.light_mist },
 		["@keyword.function"] = { fg = p.dark_mist },
