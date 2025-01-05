@@ -181,7 +181,7 @@ function M.set_colors()
 		["@function.builtin"] = { fg = p.light_mist },
 		["@function.macro"] = { fg = p.light_mist },
 		["@include"] = { fg = p.citrus },
-		["@keyword"] = { fg = p.citrus_alt },
+		["@keyword"] = { fg = p.coral_dust },
 		["@keyword.function"] = { fg = p.citrus_alt },
 		["@keyword.operator"] = { fg = p.light_mist },
 		["@keyword.return"] = { fg = p.citrus_alt },
