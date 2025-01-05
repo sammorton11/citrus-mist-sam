@@ -205,7 +205,7 @@ function M.set_colors()
 		["@tag"] = { fg = p.light_mist },
 		["@tag.attribute"] = { fg = p.light_mist },
 		["@tag.delimiter"] = { fg = p.dark_mist },
-		["@type"] = { fg = p.citrus_green_alt },
+		["@type"] = { fg = p.citrus_alt },
 		["@type.builtin"] = { fg = p.citrus_alt },
 		["@variable"] = { fg = p.fg },
 		["@variable.builtin"] = { fg = p.fg },
