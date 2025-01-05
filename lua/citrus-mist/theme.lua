@@ -182,7 +182,7 @@ function M.set_colors()
 		["@function.macro"] = { fg = p.light_mist },
 		["@include"] = { fg = p.citrus },
 		["@keyword"] = { fg = p.light_mist },
-		["@keyword.function"] = { fg = p.sand_rose },
+		["@keyword.function"] = { fg = p.light_mist },
 		["@keyword.operator"] = { fg = p.light_mist },
 		["@keyword.return"] = { fg = p.citrus_alt },
 		["@label"] = { fg = p.citrus_alt },
