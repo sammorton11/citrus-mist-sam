@@ -197,7 +197,7 @@ function M.set_colors()
 		["@punctuation.delimiter"] = { fg = p.fg },
 		["@punctuation.special"] = { fg = p.fg },
 		["@repeat"] = { fg = p.citrus_alt },
-		["@string"] = { fg = p.citrus_green_alt },
+		["@string"] = { fg = p.citrus_green },
 		["@string.escape"] = { fg = p.citrus },
 		["@string.regex"] = { fg = p.citrus },
 		["@string.special"] = { fg = p.citrus },
