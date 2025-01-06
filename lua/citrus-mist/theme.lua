@@ -184,7 +184,7 @@ function M.set_colors()
 		["@keyword"] = { fg = p.light_mist },
 		["@keyword.function"] = { fg = p.light_mist },
 		["@keyword.operator"] = { fg = p.light_mist },
-		["@keyword.return"] = { fg = p.citrus_alt },
+		["@keyword.return"] = { fg = p.light_mist },
 		["@label"] = { fg = p.citrus_alt },
 		["@method"] = { fg = p.dark_mist },
 		["@namespace"] = { fg = p.dark_mist },
