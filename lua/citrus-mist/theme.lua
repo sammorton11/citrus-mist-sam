@@ -195,7 +195,7 @@ function M.set_colors()
 		["@property"] = { fg = p.pearl },
 		["@punctuation.bracket"] = { fg = p.citrus_alt },
 		["@punctuation.delimiter"] = { fg = p.fg },
-		["@punctuation.special"] = { fg = p.fg },
+		["@punctuation.special"] = { fg = p.citrus_alt },
 		["@repeat"] = { fg = p.citrus_alt },
 		["@string"] = { fg = p.citrus_green_alt },
 		["@string.escape"] = { fg = p.citrus },
