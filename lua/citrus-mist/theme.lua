@@ -192,7 +192,7 @@ function M.set_colors()
 		["@operator"] = { fg = p.citrus },
 		["@parameter"] = { fg = p.fg },
 		["@parameter.reference"] = { fg = p.fg },
-		["@property"] = { fg = p.slate_mist },
+		["@property"] = { fg = p.pearl },
 		["@punctuation.bracket"] = { fg = p.citrus_alt },
 		["@punctuation.delimiter"] = { fg = p.fg },
 		["@punctuation.special"] = { fg = p.fg },
