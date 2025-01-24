@@ -14,7 +14,8 @@ local palette = {
   citrus_alt = "#FAFFA7",
   citrus_green = "#C7E77E",
   citrus_green_alt = "#E4F9A9",
-  dark_cloud = "#23201C",
+  dark_cloud = "#01151a",
+  --dark_cloud = "#23201C",
   -- Ocean tones (complement the existing blue-greys)
     deep_ocean = "#1B4B5A",
     sea_foam = "#7FB9AB",
