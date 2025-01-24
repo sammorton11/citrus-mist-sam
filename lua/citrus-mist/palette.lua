@@ -1,5 +1,5 @@
 local palette = {
-	bg = "#151515",
+	bg = "#01151a",
 	blue_bg = "#131F25",
 	bg_alt = "#253A44",
 	bg_urgent = "#2F2F2F",
